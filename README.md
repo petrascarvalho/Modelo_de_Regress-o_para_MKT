@@ -93,7 +93,7 @@ sales         Valor das vendas
   # Métrica de avaliação do modelo:
   Validação da métrica MSE e RMSE para penalizar grandes erros de previsão. 
   
-  Utilizando o método SKLEARN https://scikit- learn.org/stable/modules/generated/sklearn.metrics.root_mean_squared_error.html#sklearn.metrics.root_mean_squared_error
+  Utilizando o método SKLEARN https://scikit-learn.org/stable/modules/generated/sklearn.metrics.root_mean_squared_error.html#sklearn.metrics.root_mean_squared_error
   
   
   
