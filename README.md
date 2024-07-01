@@ -26,6 +26,7 @@ sales         Valor das vendas
 
 . Python Graph Gallery → Repositório com o passo a passo de como gerar gráficos
   utilizando as principais bibliotecas de Python
+  
 . SciKit Learn → Documentação com os principais modelos utilizados para
   clusterização
 
