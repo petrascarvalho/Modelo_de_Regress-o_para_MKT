@@ -80,7 +80,9 @@ sales         Valor das vendas
   # MODELING TECHNIQUES
   
   Regressão Linear do SKLEARN https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression
+  
   Support Vector Regression do SKLEARN https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html
+  
   Decision Tree Regression do XGBoost https://xgboost.readthedocs.io/en/stable/python/python_api.html
 
   # TEST DESIGN
@@ -89,8 +91,9 @@ sales         Valor das vendas
   Separação de TRAIN/TEST dataset padrão com 20% de massa para teste via medoto SKLEARN https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 
   # Métrica de avaliação do modelo:
-  Validação da métrica MSE e RMSE para penalizar grandes erros de previsão. Utilizando o método SKLEARN https://scikit- 
-  learn.org/stable/modules/generated/sklearn.metrics.root_mean_squared_error.html#sklearn.metrics.root_mean_squared_error
+  Validação da métrica MSE e RMSE para penalizar grandes erros de previsão. 
+  
+  Utilizando o método SKLEARN https://scikit- learn.org/stable/modules/generated/sklearn.metrics.root_mean_squared_error.html#sklearn.metrics.root_mean_squared_error
   
   
   
